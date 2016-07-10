@@ -22,6 +22,6 @@
     "backbone.paginator": "^2.0.5",
     "backbone-deep-model": "^0.10.4",
     "backgrid": "^0.3.7",
-    "backgrid-paginator": "^0.3.9",
+    "backgrid-paginator": "^0.3.9"
   }
 }
