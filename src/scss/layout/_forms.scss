@@ -1,0 +1,19 @@
+form.panel {
+  legend{
+    margin-bottom: 10px;
+    padding-left: 15px;
+  }
+  [type="submit"]{
+    margin: 0;
+  }
+  .form-group {
+    margin-top: 10px;
+
+    span {
+      display: inline-block;
+      font-size: 16px;
+      line-height: 1.7;
+      padding: 7px 0;
+    }
+  }
+}

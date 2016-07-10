@@ -1,0 +1,29 @@
+{
+  "name": "backbone-spa",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-clean": "*",
+    "gulp-clean-css": "*",
+    "gulp-coffee": "*",
+    "gulp-concat": "*",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-if": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-uglifycss": "*",
+    "gulp-util": "^3.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whitesunset/backbone-spa"
+  },
+  "author": "whitesunset <chester.work@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/whitesunset/backbone-spa",
+  "dependencies": {
+
+  }
+}
